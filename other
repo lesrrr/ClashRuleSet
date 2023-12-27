@@ -9,3 +9,7 @@ payload:
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN,twimg.com
   - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN,arbitrum-one.publicnode.com
+  - DOMAIN-KEYWORD,arbitrum
+  - DOMAIN,xpet.tech
+  - DOMAIN-KEYWORD,xpet
