@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,twitter.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN,x.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN,discord.com
+  - DOMAIN-SUFFIX,discord.com
+  
