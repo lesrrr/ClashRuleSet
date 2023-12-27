@@ -5,5 +5,7 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN,discord.com
   - DOMAIN-SUFFIX,discord.com
+  - DOMAIN,discord.gg
+  - DOMAIN-SUFFIX,discord.gg
   - DOMAIN,twimg.com
   - DOMAIN-SUFFIX,twimg.com
