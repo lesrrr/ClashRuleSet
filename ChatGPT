@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,chat.openai.com
+  - DOMAIN-SUFFIX,openai.com
