@@ -13,3 +13,11 @@ payload:
   - DOMAIN-KEYWORD,arbitrum
   - DOMAIN,xpet.tech
   - DOMAIN-KEYWORD,xpet
+  - DOMAIN,phantom.app
+  - DOMAIN-KEYWORD,phantom
+  - DOMAIN,metamask.io
+  - DOMAIN-KEYWORD,metamas
+  - DOMAIN,helius.xyz
+  - DOMAIN-KEYWORD,helius
+  - DOMAIN,jup.ag
+  - DOMAIN-KEYWORD,jup
