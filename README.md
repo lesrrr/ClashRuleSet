@@ -1,7 +1,7 @@
 
 # 根据 https://github.com/doge-8/kuzco-monitor/delete/main/kz.py 进行修改
 
-# 解决了实例异常时无法完全杀死实例进程导致实例数量不断增加的问题，内界面美化
+## 解决了实例异常时无法完全杀死进程导致实例数量不断增加的问题，内界面美化
 
 
 ![image](https://github.com/user-attachments/assets/3326c406-1219-4322-8e1e-1eda649c6b88)
