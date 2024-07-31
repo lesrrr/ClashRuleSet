@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/3326c406-1219-4322-8e1e-1eda649c6b88)
 
 
-# [点击下载] (https://github.com/lesrrr/Kuzco/releases)
+# [点击下载] (https://github.com/singosol/Kuzco/releases)
 
 ## 下载后需要配置的几个参数：
 ```
