@@ -2,6 +2,7 @@
 根据 https://github.com/doge-8/kuzco-monitor/delete/main/kz.py 进行修改
 
 解决了实例异常时无法完全杀死实例进程导致实例数量不断增加的问题，
+
 600秒没有完成推理请求会自动重启（可自由调整），内界面美化
 
 
@@ -10,6 +11,9 @@
 
 点击右边【Releases】下载
 
+下载后需要配置的几个参数：
+
+check_interval = 300  # 检测时间间隔，单位：秒
 
 workers = 12  # 根据自己的设备设置进程数量
 
